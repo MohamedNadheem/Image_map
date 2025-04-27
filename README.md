@@ -281,7 +281,8 @@ body {
 
 
 header {
-    margin-top: 20%;
+    marg![Screenshot 2025-04-26 132043](https://github.com/user-attachments/assets/ef8bceba-7c44-403a-92d8-1b1684599327)
+in-top: 20%;
     background-color: rgba(0, 0, 0, 0.5); 
     padding: 20px;
     border-radius: 10px;
@@ -302,6 +303,12 @@ header {
 </html>
 ```
 # OUTPUT
+![Screenshot 2025-04-26 132004](https://github.com/user-attachments/assets/a4f773b8-60cf-459a-b745-faf4be76561c)
+![Screenshot 2025-04-26 132012](https://github.com/user-attachments/assets/a11e1e26-6818-4c02-928d-df51718bd7ba)
+![Screenshot 2025-04-26 132032](https://github.com/user-attachments/assets/20f6f85e-3827-4c70-bbde-42673d1eab32)
+![Screenshot 2025-04-26 132020](https://github.com/user-attachments/assets/0ad5729d-2600-4d42-8fb7-de717e7315d9)
+![Screenshot 2025-04-26 132043](https://github.com/user-attachments/assets/84a5edff-ee8e-48b5-812e-cfad0e3c15f5)
+![Screenshot 2025-04-26 132050](https://github.com/user-attachments/assets/48ae6f94-508c-48bb-99b7-bf4999ad8ffd)
 
 # RESULT
 The program for implementing image maps using HTML is executed successfully.
